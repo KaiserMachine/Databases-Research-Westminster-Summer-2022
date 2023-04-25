@@ -2,7 +2,7 @@ Databases Research Westminster Summer 2022, Made by William
  
 This project was a project for the purposes of creating a database for teaching a course.
 
-The following databases are here:
+The following datasets are found here:
 
 1: Video Game Sales and Ratings
 
